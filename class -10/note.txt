@@ -1,0 +1,14 @@
+javascript:-                                         Java:-                                python:-
+-----------                                          ------                                --------
+let eids=[101,102,103]  -> array                     array                                 list=[101,102,103]
+                                                      ArrayList                            tuple=(101,102,103)
+                                                                                           set={101,102,103}
+
+
+python - set:-
+group of elements as one entity
+does not allowed duplicate
+order not maintained indexing not possible
+set object we can iterate using for loop
+
+
