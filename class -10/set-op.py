@@ -5,3 +5,5 @@ print(s1.intersection(s2))   #(40,30)
 print(s1.difference(s2))     #{10, 20}
 print(s2.difference(s1))     #{50, 60}
 
+ 
+
