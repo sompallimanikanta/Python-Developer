@@ -1,0 +1,1 @@
+enames=['RG','SG','PG','M']
